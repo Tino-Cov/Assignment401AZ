@@ -1,0 +1,286 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\newAssignment\\Assignment401AZ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A971307-81D7-4176-BDC0-2EB5B8F4AA33}|Assignment401AZ\\Assignment401AZ.csproj|c:\\users\\administrator\\desktop\\newassignment\\assignment401az\\assignment401az\\gui\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A971307-81D7-4176-BDC0-2EB5B8F4AA33}|Assignment401AZ\\Assignment401AZ.csproj|solutionrelative:assignment401az\\gui\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A971307-81D7-4176-BDC0-2EB5B8F4AA33}|Assignment401AZ\\Assignment401AZ.csproj|c:\\users\\administrator\\desktop\\newassignment\\assignment401az\\assignment401az\\gui\\projectmanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A971307-81D7-4176-BDC0-2EB5B8F4AA33}|Assignment401AZ\\Assignment401AZ.csproj|solutionrelative:assignment401az\\gui\\projectmanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A971307-81D7-4176-BDC0-2EB5B8F4AA33}|Assignment401AZ\\Assignment401AZ.csproj|c:\\users\\administrator\\desktop\\newassignment\\assignment401az\\assignment401az\\gui\\projectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A971307-81D7-4176-BDC0-2EB5B8F4AA33}|Assignment401AZ\\Assignment401AZ.csproj|solutionrelative:assignment401az\\gui\\projectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A971307-81D7-4176-BDC0-2EB5B8F4AA33}|Assignment401AZ\\Assignment401AZ.csproj|c:\\users\\administrator\\desktop\\newassignment\\assignment401az\\assignment401az\\gui\\projectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A971307-81D7-4176-BDC0-2EB5B8F4AA33}|Assignment401AZ\\Assignment401AZ.csproj|solutionrelative:assignment401az\\gui\\projectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A971307-81D7-4176-BDC0-2EB5B8F4AA33}|Assignment401AZ\\Assignment401AZ.csproj|c:\\users\\administrator\\desktop\\newassignment\\assignment401az\\assignment401az\\models\\projectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A971307-81D7-4176-BDC0-2EB5B8F4AA33}|Assignment401AZ\\Assignment401AZ.csproj|solutionrelative:assignment401az\\models\\projectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A971307-81D7-4176-BDC0-2EB5B8F4AA33}|Assignment401AZ\\Assignment401AZ.csproj|c:\\users\\administrator\\desktop\\newassignment\\assignment401az\\assignment401az\\dboperations\\engineeroperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A971307-81D7-4176-BDC0-2EB5B8F4AA33}|Assignment401AZ\\Assignment401AZ.csproj|solutionrelative:assignment401az\\dboperations\\engineeroperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A971307-81D7-4176-BDC0-2EB5B8F4AA33}|Assignment401AZ\\Assignment401AZ.csproj|c:\\users\\administrator\\desktop\\newassignment\\assignment401az\\assignment401az\\models\\projectassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A971307-81D7-4176-BDC0-2EB5B8F4AA33}|Assignment401AZ\\Assignment401AZ.csproj|solutionrelative:assignment401az\\models\\projectassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A971307-81D7-4176-BDC0-2EB5B8F4AA33}|Assignment401AZ\\Assignment401AZ.csproj|c:\\users\\administrator\\desktop\\newassignment\\assignment401az\\assignment401az\\models\\projectfiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A971307-81D7-4176-BDC0-2EB5B8F4AA33}|Assignment401AZ\\Assignment401AZ.csproj|solutionrelative:assignment401az\\models\\projectfiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A971307-81D7-4176-BDC0-2EB5B8F4AA33}|Assignment401AZ\\Assignment401AZ.csproj|c:\\users\\administrator\\desktop\\newassignment\\assignment401az\\assignment401az\\models\\engineers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A971307-81D7-4176-BDC0-2EB5B8F4AA33}|Assignment401AZ\\Assignment401AZ.csproj|solutionrelative:assignment401az\\models\\engineers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A971307-81D7-4176-BDC0-2EB5B8F4AA33}|Assignment401AZ\\Assignment401AZ.csproj|c:\\users\\administrator\\desktop\\newassignment\\assignment401az\\assignment401az\\dboperations\\projectmanageroperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A971307-81D7-4176-BDC0-2EB5B8F4AA33}|Assignment401AZ\\Assignment401AZ.csproj|solutionrelative:assignment401az\\dboperations\\projectmanageroperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A971307-81D7-4176-BDC0-2EB5B8F4AA33}|Assignment401AZ\\Assignment401AZ.csproj|c:\\users\\administrator\\desktop\\newassignment\\assignment401az\\assignment401az\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A971307-81D7-4176-BDC0-2EB5B8F4AA33}|Assignment401AZ\\Assignment401AZ.csproj|solutionrelative:assignment401az\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A971307-81D7-4176-BDC0-2EB5B8F4AA33}|Assignment401AZ\\Assignment401AZ.csproj|c:\\users\\administrator\\desktop\\newassignment\\assignment401az\\assignment401az\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A971307-81D7-4176-BDC0-2EB5B8F4AA33}|Assignment401AZ\\Assignment401AZ.csproj|solutionrelative:assignment401az\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A971307-81D7-4176-BDC0-2EB5B8F4AA33}|Assignment401AZ\\Assignment401AZ.csproj|c:\\users\\administrator\\desktop\\newassignment\\assignment401az\\assignment401az\\assignment401az.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4A971307-81D7-4176-BDC0-2EB5B8F4AA33}|Assignment401AZ\\Assignment401AZ.csproj|solutionrelative:assignment401az\\assignment401az.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A971307-81D7-4176-BDC0-2EB5B8F4AA33}|Assignment401AZ\\Assignment401AZ.csproj|c:\\users\\administrator\\desktop\\newassignment\\assignment401az\\assignment401az\\dboperations\\projectassignmentoperationns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A971307-81D7-4176-BDC0-2EB5B8F4AA33}|Assignment401AZ\\Assignment401AZ.csproj|solutionrelative:assignment401az\\dboperations\\projectassignmentoperationns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A971307-81D7-4176-BDC0-2EB5B8F4AA33}|Assignment401AZ\\Assignment401AZ.csproj|c:\\users\\administrator\\desktop\\newassignment\\assignment401az\\assignment401az\\dboperations\\projectfiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A971307-81D7-4176-BDC0-2EB5B8F4AA33}|Assignment401AZ\\Assignment401AZ.csproj|solutionrelative:assignment401az\\dboperations\\projectfiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A971307-81D7-4176-BDC0-2EB5B8F4AA33}|Assignment401AZ\\Assignment401AZ.csproj|c:\\users\\administrator\\desktop\\newassignment\\assignment401az\\assignment401az\\dboperations\\addressoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A971307-81D7-4176-BDC0-2EB5B8F4AA33}|Assignment401AZ\\Assignment401AZ.csproj|solutionrelative:assignment401az\\dboperations\\addressoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Address.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\newAssignment\\Assignment401AZ\\Assignment401AZ\\GUI\\Address.cs",
+              "RelativeDocumentMoniker": "Assignment401AZ\\GUI\\Address.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\newAssignment\\Assignment401AZ\\Assignment401AZ\\GUI\\Address.cs [Design]",
+              "RelativeToolTip": "Assignment401AZ\\GUI\\Address.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T20:58:37.918Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectManager.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\newAssignment\\Assignment401AZ\\Assignment401AZ\\GUI\\ProjectManager.Designer.cs",
+              "RelativeDocumentMoniker": "Assignment401AZ\\GUI\\ProjectManager.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\newAssignment\\Assignment401AZ\\Assignment401AZ\\GUI\\ProjectManager.Designer.cs",
+              "RelativeToolTip": "Assignment401AZ\\GUI\\ProjectManager.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T20:55:44.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectManager.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\newAssignment\\Assignment401AZ\\Assignment401AZ\\GUI\\ProjectManager.cs",
+              "RelativeDocumentMoniker": "Assignment401AZ\\GUI\\ProjectManager.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\newAssignment\\Assignment401AZ\\Assignment401AZ\\GUI\\ProjectManager.cs",
+              "RelativeToolTip": "Assignment401AZ\\GUI\\ProjectManager.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T19:25:12.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectManager.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\newAssignment\\Assignment401AZ\\Assignment401AZ\\GUI\\ProjectManager.cs",
+              "RelativeDocumentMoniker": "Assignment401AZ\\GUI\\ProjectManager.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\newAssignment\\Assignment401AZ\\Assignment401AZ\\GUI\\ProjectManager.cs [Design]",
+              "RelativeToolTip": "Assignment401AZ\\GUI\\ProjectManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T19:19:41.697Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProjectAssignmentOperationns.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\newAssignment\\Assignment401AZ\\Assignment401AZ\\DBOperations\\ProjectAssignmentOperationns.cs",
+              "RelativeDocumentMoniker": "Assignment401AZ\\DBOperations\\ProjectAssignmentOperationns.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\newAssignment\\Assignment401AZ\\Assignment401AZ\\DBOperations\\ProjectAssignmentOperationns.cs",
+              "RelativeToolTip": "Assignment401AZ\\DBOperations\\ProjectAssignmentOperationns.cs",
+              "ViewState": "AgIAABoAAACgmZmZmbkxwC8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T16:09:59.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProjectFiles.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\newAssignment\\Assignment401AZ\\Assignment401AZ\\DBOperations\\ProjectFiles.cs",
+              "RelativeDocumentMoniker": "Assignment401AZ\\DBOperations\\ProjectFiles.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\newAssignment\\Assignment401AZ\\Assignment401AZ\\DBOperations\\ProjectFiles.cs",
+              "RelativeToolTip": "Assignment401AZ\\DBOperations\\ProjectFiles.cs",
+              "ViewState": "AgIAAAQAAAAAEAAAAAAEwBQAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T14:40:32.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EngineerOperations.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\newAssignment\\Assignment401AZ\\Assignment401AZ\\DBOperations\\EngineerOperations.cs",
+              "RelativeDocumentMoniker": "Assignment401AZ\\DBOperations\\EngineerOperations.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\newAssignment\\Assignment401AZ\\Assignment401AZ\\DBOperations\\EngineerOperations.cs",
+              "RelativeToolTip": "Assignment401AZ\\DBOperations\\EngineerOperations.cs",
+              "ViewState": "AgIAAAMAAADAmZmZmRkmwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T14:19:41.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddressOperations.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\newAssignment\\Assignment401AZ\\Assignment401AZ\\DBOperations\\AddressOperations.cs",
+              "RelativeDocumentMoniker": "Assignment401AZ\\DBOperations\\AddressOperations.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\newAssignment\\Assignment401AZ\\Assignment401AZ\\DBOperations\\AddressOperations.cs",
+              "RelativeToolTip": "Assignment401AZ\\DBOperations\\AddressOperations.cs",
+              "ViewState": "AgIAABoAAAAAmpmZmbk3wBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T12:00:48.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectManager.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\newAssignment\\Assignment401AZ\\Assignment401AZ\\Models\\ProjectManager.cs",
+              "RelativeDocumentMoniker": "Assignment401AZ\\Models\\ProjectManager.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\newAssignment\\Assignment401AZ\\Assignment401AZ\\Models\\ProjectManager.cs",
+              "RelativeToolTip": "Assignment401AZ\\Models\\ProjectManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T12:52:54.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProjectManagerOperations.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\newAssignment\\Assignment401AZ\\Assignment401AZ\\DBOperations\\ProjectManagerOperations.cs",
+              "RelativeDocumentMoniker": "Assignment401AZ\\DBOperations\\ProjectManagerOperations.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\newAssignment\\Assignment401AZ\\Assignment401AZ\\DBOperations\\ProjectManagerOperations.cs",
+              "RelativeToolTip": "Assignment401AZ\\DBOperations\\ProjectManagerOperations.cs",
+              "ViewState": "AgIAAAIAAADGzczMzIwjwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T14:36:40.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProjectFiles.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\newAssignment\\Assignment401AZ\\Assignment401AZ\\Models\\ProjectFiles.cs",
+              "RelativeDocumentMoniker": "Assignment401AZ\\Models\\ProjectFiles.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\newAssignment\\Assignment401AZ\\Assignment401AZ\\Models\\ProjectFiles.cs",
+              "RelativeToolTip": "Assignment401AZ\\Models\\ProjectFiles.cs",
+              "ViewState": "AgIAAAYAAAAAm5mZmdkhwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T12:55:52.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProjectAssignment.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\newAssignment\\Assignment401AZ\\Assignment401AZ\\Models\\ProjectAssignment.cs",
+              "RelativeDocumentMoniker": "Assignment401AZ\\Models\\ProjectAssignment.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\newAssignment\\Assignment401AZ\\Assignment401AZ\\Models\\ProjectAssignment.cs",
+              "RelativeToolTip": "Assignment401AZ\\Models\\ProjectAssignment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T12:56:15.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\newAssignment\\Assignment401AZ\\Assignment401AZ\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "Assignment401AZ\\Models\\Address.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\newAssignment\\Assignment401AZ\\Assignment401AZ\\Models\\Address.cs",
+              "RelativeToolTip": "Assignment401AZ\\Models\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T12:56:33.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Engineers.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\newAssignment\\Assignment401AZ\\Assignment401AZ\\Models\\Engineers.cs",
+              "RelativeDocumentMoniker": "Assignment401AZ\\Models\\Engineers.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\newAssignment\\Assignment401AZ\\Assignment401AZ\\Models\\Engineers.cs",
+              "RelativeToolTip": "Assignment401AZ\\Models\\Engineers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T12:55:23.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\newAssignment\\Assignment401AZ\\Assignment401AZ\\DataAccess.cs",
+              "RelativeDocumentMoniker": "Assignment401AZ\\DataAccess.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\newAssignment\\Assignment401AZ\\Assignment401AZ\\DataAccess.cs",
+              "RelativeToolTip": "Assignment401AZ\\DataAccess.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:04:23.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Assignment401AZ.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\newAssignment\\Assignment401AZ\\Assignment401AZ\\Assignment401AZ.csproj",
+              "RelativeDocumentMoniker": "Assignment401AZ\\Assignment401AZ.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\newAssignment\\Assignment401AZ\\Assignment401AZ\\Assignment401AZ.csproj",
+              "RelativeToolTip": "Assignment401AZ\\Assignment401AZ.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-11T11:48:56.683Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
