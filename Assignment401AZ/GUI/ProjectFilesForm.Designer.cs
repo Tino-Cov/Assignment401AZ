@@ -1,6 +1,6 @@
 ﻿namespace Assignment401AZ.GUI
 {
-    partial class Address
+    partial class ProjectFilesForm
     {
         /// <summary>
         /// Required designer variable.
@@ -31,7 +31,7 @@
             this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Address";
+            this.Text = "ProjectFiles";
         }
 
         #endregion

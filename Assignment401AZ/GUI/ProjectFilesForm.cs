@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Assignment401AZ.GUI
 {
-    public partial class Engineer : Form
+    public partial class ProjectFilesForm : Form
     {
-        public Engineer()
+        public ProjectFilesForm()
         {
             InitializeComponent();
         }

@@ -1607,24 +1607,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Administrator\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\gambi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\newAssignment\\Assignment401AZ\\Assignment401AZ\\Assignment401AZ.csproj",
+      "projectUniqueName": "C:\\Users\\gambi\\Documents\\GitHub\\Assignment401AZ\\Assignment401AZ\\Assignment401AZ.csproj",
       "projectName": "Assignment401AZ",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\newAssignment\\Assignment401AZ\\Assignment401AZ\\Assignment401AZ.csproj",
-      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\newAssignment\\Assignment401AZ\\Assignment401AZ\\obj\\",
+      "projectPath": "C:\\Users\\gambi\\Documents\\GitHub\\Assignment401AZ\\Assignment401AZ\\Assignment401AZ.csproj",
+      "packagesPath": "C:\\Users\\gambi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gambi\\Documents\\GitHub\\Assignment401AZ\\Assignment401AZ\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\gambi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1632,7 +1627,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
